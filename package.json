@@ -1,0 +1,28 @@
+{
+  "name": "spotify-project-backend",
+  "version": "1.0.0",
+  "description": "Spotify server for Auth in Spotify",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viniarruda/spotify-project-backend.git"
+  },
+  "author": "Vinicius Arruda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/viniarruda/spotify-project-backend/issues"
+  },
+  "homepage": "https://github.com/viniarruda/spotify-project-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
