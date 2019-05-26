@@ -4,8 +4,8 @@
   "description": "Spotify server for Auth in Spotify",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/server.js",
-    "start": "node src/server.js"
+    "dev": "nodemon authorization_code/app.js",
+    "start": "node authorization_code/app.js"
   },
   "repository": {
     "type": "git",
