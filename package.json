@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/viniarruda/spotify-project-backend#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.17.0",
-    "request": "^2.88.0"
+    "cookie-parser": "1.3.2",
+    "express": "~4.16.0",
+    "cors": "^2.8.4",
+    "querystring": "~0.2.0",
+    "request": "~2.83.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.0"
