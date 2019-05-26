@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon authorization_code/app.js",
-    "start": "node authorization_code/app.js"
+    "start": "node src/server.js"
   },
   "repository": {
     "type": "git",
